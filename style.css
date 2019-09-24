@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+section{
+    background-color: darkolivegreen;
+    margin: 3%; 
+}
+header{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+.titleName {
+    color: white;
+    
+    font-family: 'Alegreya', serif;
+    font-size: 50px;
+}
+footer{
+    display:flex;
+    justify-content: flex-end;
+}
+footer a img{
+    margin: 20px;
+}
